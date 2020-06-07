@@ -35,45 +35,40 @@ __e. Indent (Private static class)__ | This is a private static class which will
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-### Indent class
-  This class contains methods which used for indentation
+ ## 2. Methods
+ Various methods were used in this program in order to make things generic and feasible to code. Stated below are the methods with their functionalities that were used in this program.
  
- __Methods used for indentation__
- 
- - createDelay - method create delay for about 60 or more milliseconds for a string
- 
- - separator - method separates the content by printing 100 dashes
- 
- - alignSlow - method print some tabs , lines and create delay for a string
- 
- - align - method will only print tabs and lines for a string
- 
- - leftpadding - method will print tabs on left side of a string
- 
- - instructions - method will print instructions by calling align method in it
- 
- - printlegends - method will print legends by calling align method in it
- 
- ## Constructor
- __Default Constructor__
- 
- used to initialize size of ocean and ships
- 
- __Paramiterized constructor__
- 
- ocean size and ships initialized and a 2-D sized ocean is declared
- 
- ## Methods for battleShip class
+ -----------------------------------------------------------------------------------------------------------------------------
  PrintOcean - method will print the ocean which later on print the current status of ocean as where user ships are placed and so on.
  
- - fill - method will fill the ocean with the given character
+ __a. void fill (ocean, generic_value)__ | This method is created in order to fill the ocean with a generic value.
  
- - Menu - method will display the options for game - how to play or start game 
+ __b. void Menu (void)__ | This method is created to display Menu as well as respond according to the input provided by the user. 
  
- - getXY - method will return values either randomly created or user input
+ __c. int[] getXY (isUser, isManual)__ | This method is created to either guess the values randomly or to take input from the user, so basically isUser define whether the input is for User or Computer and isManual defines whether the user want to input values randomly or to input manually.
  
- - deploy - method will place ships on ocean for either user or computer
+ __d. void deploy (isUser, Set)__ | This method is created to deploy the ships in the ocean for user and computer, So isUser defines whether deployment is for user or computer and Set is a set of locations which makes sure deployment is always on a new location.
  
- - KillShips - method will attack ship placed on location given by user or computer
+ __e. int KillShips (isUser, Set)__ | This method is created to kill ships either by firing from user's side of computer's side. 
  
- - Start - method will start the game by calling methods and later on print the result
+ __f. void Start (void)__ | This method is created as a hub between deploy ships and killships and decides the winner and print the ocean at the end of the program.
+ 
+ -----------------------------------------------------------------------------------------------------------------------------
+ 
+ ## 3. How to Run
+ __Step 1__ |  First clone the project in any directory.<br>
+ __Step 2__ | Open terminal in that same directory.<br>
+ __Step 3__ | Run command ``` javac BattleShip.java``` to compile the java code.<br>
+ __Step 4__ | Run command ``` javac BattleShipClient.java``` to compile java code.<br>
+ __Step 5__ | Run command ```java BattleShipClient``` to run the code.<br>
+ __Step 6__ | Enjoy the game budd......;)<br>
+ 
+ ## 4. Screenshots (Picture abhi baki hai mere dost !!!!).
+ 
+ .
+ .
+ .
+ .
+ .
+ .
+ . __To be Continued__ 
