@@ -63,12 +63,37 @@ __e. Indent (Private static class)__ | This is a private static class which will
  __Step 5__ | Run command ```java BattleShipClient``` to run the code.<br>
  __Step 6__ | Enjoy the game budd......;)<br>
  
- ## 4. Screenshots (Picture abhi baki hai mere dost !!!!).
+ ## 4. Screenshots 
  
- .
- .
- .
- .
- .
- .
- . __To be Continued__ 
+### Welcome Page
+<p align="center">
+  <img src="text-align:center"><img src="https://user-images.githubusercontent.com/59146229/83982970-4b0b6980-a948-11ea-8475-ef30b9a541b9.png">
+</p>
+
+### Menu Option 1
+
+#### User Deploying Ships
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/59146229/83983290-a8081f00-a94a-11ea-8dca-21d24b259182.png">
+</p>
+
+#### Computer Deploying Ships
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/59146229/83983338-1816a500-a94b-11ea-96e8-74a939d84f19.png">
+</p>
+
+### Menu Option 2
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/59146229/83983154-af7af880-a949-11ea-8fd7-fa0be7ba28ad.png">
+</p>
+
+### Predicting Location to fire in order to kill each other's ship
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/59146229/83983358-4c8a6100-a94b-11ea-9f5f-fa061928dab6.png">
+</p>
+
+### Result
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/59146229/83983399-a854ea00-a94b-11ea-9d43-5399ca032196.png">
+</p>
