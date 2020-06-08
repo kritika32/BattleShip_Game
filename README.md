@@ -55,13 +55,12 @@ __e. Indent (Private static class)__ | This is a private static class which will
  
  -----------------------------------------------------------------------------------------------------------------------------
  
- ## 3. How to Run
- __Step 1__ |  First clone the project in any directory.<br>
+ ## 3. How to Run (Terminal)
+ __Step 1__ | First clone the project in any directory.<br>
  __Step 2__ | Open terminal in that same directory.<br>
- __Step 3__ | Run command ``` javac BattleShip.java``` to compile the java code.<br>
- __Step 4__ | Run command ``` javac BattleShipClient.java``` to compile java code.<br>
- __Step 5__ | Run command ```java BattleShipClient``` to run the code.<br>
- __Step 6__ | Enjoy the game budd......;)<br>
+ __Step 3__ | Run command ``` javac Game.java``` to compile the java code.<br>
+ __Step 4__ | Run command ``` java Game``` to run the code.<br>
+ __Step 5__ | Enjoy the game budd!!......;)<br>
  
  ## 4. Screenshots 
  
