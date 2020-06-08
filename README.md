@@ -3,7 +3,7 @@ A simple Java Game to strengthen OOP and DS concepts
 ## Description
 ---
 
-__This repo is about a battle game between Human and Machine__.
+This project will help you get more familiar with Datastructure implementation and OOPs concepts. You will be recreating the game of battleships. A player will place N of their ships on a M by M grid. The computer player will deploy five ships on the same grid. Once the game starts the player and computer take turns, trying to sink each other's ships by guessing the coordinates to "attack". The game ends when either the player or computer has no ships left.
 
 ---
 
